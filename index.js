@@ -1,9 +1,3 @@
-/**
- * Before you tackle a problem, make sure you understand it first, You can't solve what you don't understand
- * no matter how good you are.
- * Devise a plan. (Write it somewhere)
- * implement your solution
- */
 
 /**
  * Convert celsius to farenheit
